@@ -1,9 +1,9 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> My Name is Ali Hoteit, Full Stack Web Developer and DevOps engineer :computer:<br>
+  <br> My Name is Ali Hoteit, Full Stack Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1000">
  </abc>
 </h2> 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +19,7 @@
 - :computer: I'm a Fullstack Developer, currently exploring Autotmation Tools
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :zap: About Me: I am passionate about enhancing my coding skills through continuous learning and engagement with expert developers, particularly by participating in meetups and professional development opportunities.<br>
+- :zap: Facts: I am passionate about enhancing my coding skills through continuous learning and engagement with expert developers, particularly by participating in meetups and professional development opportunities.<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
